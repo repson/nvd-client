@@ -1,2 +1,2 @@
 # nvd-client
-API Client for NVD API.
+Terminal Client for NVD API.
